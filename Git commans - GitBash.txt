@@ -1,0 +1,22 @@
+git clone "remote url"			- Cloning an existing Git repository
+.
+.
+git status
+git add .   "readme.md"			- ("git add ." adds everything) Preparing (adding / selecting) files for a commit
+git status				- Check the status of your local repository (see the local changes)
+git commit - m "your message here"	- Committing to the local repository
+git push    / with branch:		- Pushing to a remote (send changes to the remote repository)
+.
+.
+other commands
+git init 					- Creating a new local repository (in the current directory)
+git remote add [remote name] [remote url]	- Creating a remote (assign a short name for remote Git URL)
+git pull					- Fetch and merge the latest changes from the remote repository
+
+
+
+
+.. in VIM
+1.click to botun "Insert"
+2. to escape -> ":q!" - fine
+
